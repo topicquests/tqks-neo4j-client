@@ -1,0 +1,15 @@
+<?xml version="1.0" ?>
+<!-- tqks-neo4j-client properties
+	-->
+
+<properties>
+
+	<parameter name="Neo4J" value="bolt://localhost:7687" /> <!-- CHANGEME -->
+	<!-- neo4j credentials for your installation -->
+	<parameter name="UName" value = "neo4j" /> <!-- CHANGEME -->
+	<parameter name="Pwd" value = "testing!" /> <!-- CHANGEME -->
+
+
+
+</properties>
+
